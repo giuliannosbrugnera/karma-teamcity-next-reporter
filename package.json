@@ -1,6 +1,6 @@
 {
-  "name": "karma-teamcity-reporter",
-  "version": "1.1.0",
+  "name": "karma-teamcity-next-reporter",
+  "version": "0.0.1",
   "description": "A Karma plugin. Report results for Teamcity CI.",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/karma-runner/karma-teamcity-reporter.git"
+    "url": "git://github.com/giuliannosbrugnera/karma-teamcity-next-reporter/tree/karma-teamcity-next-reporter"
   },
   "keywords": [
     "karma-plugin",
